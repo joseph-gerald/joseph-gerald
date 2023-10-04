@@ -2,11 +2,11 @@
 
 <br>
 <p align="center">
-  <h3 align="center">Hi 👋, my name is Joseph.</h3>
-  <h4 align="center">I am a high school student with a strong interest in programming</h4>
+  <h3 align="center"><a href="#">Hi 👋, my name is Joseph.</a></h3>
+  <h4 align="center"><a href="#">I am a high school student with a strong interest in programming</a></h4>
 </p>
 <br>
-<h3 align="center">ＬＥＡＲＮＩＮＧ</h3>
+<h3 align="center"><a href="#">ＬＥＡＲＮＩＮＧ</a></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,typescript,js,nodejs,react,nextjs,express" />
@@ -14,7 +14,7 @@
 </p>
 <br>
 <br>
-<h3 align="center">ＩＮＴＲＥＳＴＥＤ ＩＮ ＬＥＡＲＮＩＮＧ</h3>
+<h3 align="center"><a href="#">ＩＮＴＲＥＳＴＥＤ ＩＮ ＬＥＡＲＮＩＮＧ</a></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,mongodb,unity,tensorflow,kotlin,c,cs,cpp,lua,docker,php,raspberrypi,regex,blender,rust,dotnet,arduino,svelte,wasm,ocaml&perline=10" />
@@ -23,7 +23,7 @@
 <br>
 <br>
 <br>
-<h2 align="center">ＣＵＲＲＥＮＴ ＰＲＯＪＥＣＴＳ</h2>
+<h2 align="center"><a href="#">ＣＵＲＲＥＮＴ ＰＲＯＪＥＣＴＳ</a></h2>
 <p align="center" style="font-family: Consolas; ">
   <b>
     JavaScript Code De/Obfuscator
