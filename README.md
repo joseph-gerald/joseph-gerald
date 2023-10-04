@@ -2,8 +2,9 @@
 
 <br>
 <p align="center">
-  <h3 align="center"><a href="#">Hi 👋, my name is Joseph.</a></h3>
-  <h4 align="center"><a href="#">I am a high school student with a strong interest in programming</a></h4>
+  <b>Hi 👋, my name is Joseph.</b>
+  <br>
+  I am a high school student with a strong interest in programming
 </p>
 <br>
 <h3 align="center"><a href="#">ＬＥＡＲＮＩＮＧ</a></h3>
