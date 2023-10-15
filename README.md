@@ -4,7 +4,7 @@
 <p align="center">
   <b>Hi 👋, my name is Joseph.</b>
   <br>
-  I am a high school student with a strong interest in programming
+  I am a high school student with a strong passion for programming
 </p>
 <br>
 <h3 align="center">ＬＥＡＲＮＩＮＧ</h3>
