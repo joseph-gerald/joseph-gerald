@@ -33,6 +33,10 @@
   <b>
     Basic Captcha/Anti Bot for websites
   </b>
+  <br>
+  <b>
+    Pinterest User Tracker
+  </b>
 </p>
 
 <br>
