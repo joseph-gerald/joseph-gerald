@@ -31,11 +31,19 @@
   </b>
   <br>
   <b>
+    JavaScript Bytecode Interpreter/Compiler (virtualizer)
+  </b>
+  <br>
+  <b>
     Basic Captcha/Anti Bot for websites
   </b>
   <br>
   <b>
     Pinterest User Tracker
+  </b>
+  <br>
+  <b>
+    High data volume/speed applications/apis
   </b>
 </p>
 
