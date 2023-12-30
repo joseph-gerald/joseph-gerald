@@ -43,11 +43,7 @@
   </b>
   <br>
   <b>
-    High data volume/speed applications/apis
-  </b>
-  <br>
-  <b>
-    GeoGeussr esque game *KongsberGuessr
+    Remote Administration Tool
   </b>
 </p>
 
