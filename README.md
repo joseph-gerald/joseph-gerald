@@ -26,24 +26,40 @@
 <br>
 <h2 align="center">ＣＵＲＲＥＮＴ ＰＲＯＪＥＣＴＳ</h2>
 <p align="center" style="font-family: Consolas; ">
+  <br>
   <b>
-    JavaScript Code De/Obfuscator
+    Web Analytics/Visitor Tracking
   </b>
   <br>
   <b>
-    JavaScript Bytecode Interpreter/Compiler (virtualizer)
-  </b>
-  <br>
-  <b>
-    Basic Captcha/Anti Bot for websites
-  </b>
-  <br>
-  <b>
-    Pinterest User Tracker
+    Music Quiz Game (MusicGeussr)
   </b>
   <br>
   <b>
     Remote Administration Tool
+  </b>
+  <br>
+  <b>
+    Redirect Hub
+  </b>
+</p>
+
+<br>
+<br>
+
+<h2 align="center">ＰＲＯＪＥＣＴＳ ＰＡＵＳＥＤ／ＴＯ－ＤＯ</h2>
+<p align="center" style="font-family: Consolas; ">
+  <br>
+  <b>
+    Javascript Obfuscator
+  </b>
+  <br>
+  <b>
+    Javascript Virtualizer
+  </b>
+  <br>
+  <b>
+    Offline Gulesider
   </b>
 </p>
 
