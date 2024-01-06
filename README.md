@@ -47,7 +47,7 @@
 <br>
 <br>
 
-<h2 align="center">ＰＲＯＪＥＣＴＳ ＰＡＵＳＥＤ／ＴＯ－ＤＯ</h2>
+<h2 align="center">ＯＮ ＨＯＬＤ ／ ＴＯ－ＤＯ</h2>
 <p align="center" style="font-family: Consolas; ">
   <br>
   <b>
@@ -60,6 +60,10 @@
   <br>
   <b>
     Offline Gulesider
+  </b>
+  <br>
+  <b>
+    LLM Site Monitorer
   </b>
 </p>
 
