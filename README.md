@@ -51,6 +51,10 @@
 <p align="center" style="font-family: Consolas; ">
   <br>
   <b>
+    LLM Site Monitorer
+  </b>
+  <br>
+  <b>
     Javascript Obfuscator
   </b>
   <br>
@@ -60,10 +64,6 @@
   <br>
   <b>
     Offline Gulesider
-  </b>
-  <br>
-  <b>
-    LLM Site Monitorer
   </b>
 </p>
 
