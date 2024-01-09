@@ -51,7 +51,7 @@
 <p align="center" style="font-family: Consolas; ">
   <br>
   <b>
-    LLM Site Monitorer
+    LLM Site Monitor
   </b>
   <br>
   <b>
