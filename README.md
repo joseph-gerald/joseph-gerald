@@ -32,15 +32,11 @@
   </b>
   <br>
   <b>
-    Music Quiz Game (MusicGeussr)
-  </b>
-  <br>
-  <b>
     Remote Administration Tool
   </b>
   <br>
   <b>
-    Redirect Hub
+    Web Game Framework
   </b>
 </p>
 
@@ -64,6 +60,10 @@
   <br>
   <b>
     Offline Gulesider
+  </b>
+  <br>
+  <b>
+    Redirect Hub
   </b>
 </p>
 
