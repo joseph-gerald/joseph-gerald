@@ -5,6 +5,9 @@
   <b>Hi 👋, my name is Joseph.</b>
   <br>
   I am a high school student with a strong passion for programming
+  <br>
+  <br>
+  <i>my internet portfolio <a href="https://me.jooo.tech">me.jooo.tech</a></i>
 </p>
 <br>
 <h3 align="center">ＬＥＡＲＮＩＮＧ</h3>
