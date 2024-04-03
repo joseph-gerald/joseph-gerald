@@ -39,7 +39,7 @@
   </b>
   <br>
   <b>
-    Web Game Framework
+    Party Game
   </b>
 </p>
 
