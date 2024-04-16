@@ -29,17 +29,12 @@
 <br>
 <h2 align="center">ＣＵＲＲＥＮＴ ＰＲＯＪＥＣＴＳ</h2>
 <p align="center" style="font-family: Consolas; ">
-  <br>
-  <b>
-    Web Analytics/Visitor Tracking
-  </b>
-  <br>
-  <b>
-    Remote Administration Tool
-  </b>
-  <br>
   <b>
     Party Game
+  </b>
+  <br>
+  <b>
+    Solitaire in x64 ASM
   </b>
 </p>
 
@@ -68,6 +63,15 @@
   <b>
     Redirect Hub
   </b>
+  <br>
+  <b>
+    Web Analytics/Visitor Tracking
+  </b>
+  <br>
+  <b>
+    Remote Administration Tool
+  </b>
+  <br>
 </p>
 
 <br>
