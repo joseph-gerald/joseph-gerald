@@ -30,7 +30,7 @@
 <h2 align="center">ＣＵＲＲＥＮＴ ＰＲＯＪＥＣＴＳ</h2>
 <p align="center" style="font-family: Consolas; ">
   <b>
-    Party Game
+    jPaste
   </b>
   <br>
   <b>
@@ -43,6 +43,10 @@
 
 <h2 align="center">ＯＮ ＨＯＬＤ ／ ＴＯ－ＤＯ</h2>
 <p align="center" style="font-family: Consolas; ">
+  <br>
+  <b>
+    Party Game
+  </b>
   <br>
   <b>
     LLM Site Monitor
