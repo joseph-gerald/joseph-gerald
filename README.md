@@ -32,10 +32,6 @@
   <b>
     jPaste
   </b>
-  <br>
-  <b>
-    Solitaire in x64 ASM
-  </b>
 </p>
 
 <br>
@@ -43,6 +39,10 @@
 
 <h2 align="center">ＯＮ ＨＯＬＤ ／ ＴＯ－ＤＯ</h2>
 <p align="center" style="font-family: Consolas; ">
+  <br>
+  <b>
+    Solitaire in x64 ASM
+  </b>
   <br>
   <b>
     Single Wallet Solana Payment Processor
