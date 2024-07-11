@@ -45,6 +45,14 @@
 <p align="center" style="font-family: Consolas; ">
   <br>
   <b>
+    Single Wallet Solana Payment Processor
+  </b>
+  <br>
+  <b>
+    Logging Storage / API
+  </b>
+  <br>
+  <b>
     Party Game
   </b>
   <br>
