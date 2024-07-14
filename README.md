@@ -32,6 +32,10 @@
   <b>
     jPaste
   </b>
+  <br>
+  <b>
+    Logging Storage / Key Value Manager
+  </b>
 </p>
 
 <br>
@@ -46,10 +50,6 @@
   <br>
   <b>
     Single Wallet Solana Payment Processor
-  </b>
-  <br>
-  <b>
-    Logging Storage / API
   </b>
   <br>
   <b>
