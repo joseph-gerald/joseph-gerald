@@ -1,90 +1,35 @@
-<img src="https://svgshare.com/i/tpp.svg">
+
+<div align="">
+<h6 align="right">ＬＥＡＲＮＩＮＧ</h6>
+<a href="https://skillicons.dev">
+  <img height="36" align="right" src="https://skillicons.dev/icons?i=python,java,nodejs,react,nextjs,express,html,css,typescript,js" />
+</a>
+<h2 align="left">Hey 👋, my name is Joseph.</h2>
+ <div/>
 
 <br>
 <p align="center">
-  <b>Hi 👋, my name is Joseph.</b>
+  </span><br><br>
+  <h3 align="center">ＩＮＴＲＥＳＴＥＤ ＩＮ ＬＥＡＲＮＩＮＧ</h3>
   <br>
-  I am a high school student with a strong passion for programming
-  <br>
-  <br>
-  <i>my internet portfolio <a href="https://me.jooo.tech">me.jooo.tech</a></i>
+  <p align="center">
+      <img src="https://skillicons.dev/icons?i=go,mongodb,unity,tensorflow,kotlin,c,cs,cpp,lua,docker,php,raspberrypi,regex,blender,rust,dotnet,arduino,svelte,wasm,flutter&perline=10" />
+  </p>
 </p>
-<br>
-<h3 align="center">ＬＥＡＲＮＩＮＧ</h3>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,typescript,js,nodejs,react,nextjs,express" />
-  </a>
-</p>
-<br>
-<br>
-<h3 align="center">ＩＮＴＲＥＳＴＥＤ ＩＮ ＬＥＡＲＮＩＮＧ</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,mongodb,unity,tensorflow,kotlin,c,cs,cpp,lua,docker,php,raspberrypi,regex,blender,rust,dotnet,arduino,svelte,wasm,ocaml&perline=10" />
-  </a>
-</p>
-<br>
-<br>
-<br>
-<h2 align="center">ＣＵＲＲＥＮＴ ＰＲＯＪＥＣＴＳ</h2>
-<p align="center" style="font-family: Consolas; ">
-  <b>
-    jPaste
-  </b>
+  </span><br><br>
+  <h3 align="center">ＣＵＲＲＥＮＴ ＰＲＯＪＥＣＴＳ</h3>
   <br>
-  <b>
-    Logging Storage / Key Value Manager
-  </b>
+  <p align="center" style="font-family: Consolas; ">
+    <b>
+      TODO
+    </b>
+  </p>
 </p>
 
 <br>
 <br>
-
-<h2 align="center">ＯＮ ＨＯＬＤ ／ ＴＯ－ＤＯ</h2>
-<p align="center" style="font-family: Consolas; ">
-  <br>
-  <b>
-    Solitaire in x64 ASM
-  </b>
-  <br>
-  <b>
-    Single Wallet Solana Payment Processor
-  </b>
-  <br>
-  <b>
-    Party Game
-  </b>
-  <br>
-  <b>
-    LLM Site Monitor
-  </b>
-  <br>
-  <b>
-    Javascript Obfuscator
-  </b>
-  <br>
-  <b>
-    Javascript Virtualizer
-  </b>
-  <br>
-  <b>
-    Offline Gulesider
-  </b>
-  <br>
-  <b>
-    Redirect Hub
-  </b>
-  <br>
-  <b>
-    Web Analytics/Visitor Tracking
-  </b>
-  <br>
-  <b>
-    Remote Administration Tool
-  </b>
-  <br>
-</p>
 
 <br>
 <br>
